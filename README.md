@@ -21,15 +21,11 @@
 - [Technical Timeline](#technical-timeline-1)
 - [MITRE ATT&CK Technique Mapping](#mitre-attck-technique-mapping--technical-timeline)
 
-# Executive Summary
-## Incident ID:
-- INC2025-0011-019
-
-## Incident Severity:
-- Severity 1 (Critical)
-
-## Incident Status:
-- Resolved
+## Executive Summary
+**Incident ID:** INC2025-0011-019
+**Incident Severity:** Severity 1 (Critical) 
+**Security Analyst** Albert Romero
+**Incident Status:** Resolved
 
 ## Incident Overview:
 - After establishing initial access on November 19th, network monitoring detected an unauthorized entity returning approximately 72 hours after at precisely `2025-11-22T00:27:58.4166424Z`. Suspicious lateral movement and large data transfers were observed overnight on the file server. Evidence of credential collection and exfiltration of data were followed by actions that align with persistence for continued privileges and anti-forensic attempts.
